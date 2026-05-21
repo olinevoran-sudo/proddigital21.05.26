@@ -1,0 +1,70 @@
+h1
+{color: #9ab8cf}
+
+.verde
+{color: #adcadb}
+body{
+	background-color: #adcadb;
+}
+
+main{ 
+width: 960px ;
+background-color:#c0dce7 ;
+border-color: #black;
+border-style: solid;
+border-width: 2px;
+margin-left: auto;
+margin-right: auto;
+ }
+
+
+ header{ 
+height:110px ;
+width:600px ;
+background-color:#d4edf3 ;
+float: left;
+ }
+
+
+
+ nav{ 
+height:110px ;
+width:360px ;
+background-color:#e7ffff ;
+float: right;
+ }
+
+
+
+ section{ 
+height:1200px ;
+width:960px ;
+background-color:#d4e9fe ;
+ }
+
+ p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    margin-left: 20px;
+}
+
+ul, ol{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img{
+  margin-left: 260px;
+    margin-right: 20px;
+}
+
+
+ footer{ 
+}
+height:80px ;
+width:960px ;
+background-color:#1E9989 ;
+ }
